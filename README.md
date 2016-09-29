@@ -6,6 +6,10 @@
 - Python 3.5
 
 ## Credits:
-- [Optimo - A C++ header library for optimization]http://vfragoso.com/doc/optimo/html/()
+- [Optimo - A C++ header library for optimization](http://vfragoso.com/doc/optimo/html/)
 - [cvxopt](http://cvxopt.org/)
 - [gurobi](http://www.gurobi.com/)
+
+## Roadmap:
+- Complete Convex Optimzation routines.
+- Integrate with [machine_learning_exercises](https://github.com/neurohn/machine_learning_exercises)
