@@ -9,6 +9,7 @@
 - [Optimo - A C++ header library for optimization](http://vfragoso.com/doc/optimo/html/)
 - [cvxopt](http://cvxopt.org/)
 - [gurobi](http://www.gurobi.com/)
+- [Descent](https://github.com/nirum/descent)
 
 ## Roadmap:
 - Complete Convex Optimzation routines.
